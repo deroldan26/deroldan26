@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,mongodb,mysql,postgres,py,django,ts,nestjs,eclipse,java,cpp,cs)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,js,nodejs,react,html,css,bootstrap)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,js,nodejs,react,angular,html,css,bootstrap)](https://skillicons.dev)
 
 <
 
