@@ -6,8 +6,6 @@
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,js,nodejs,react,angular,html,css,bootstrap)](https://skillicons.dev)
 
-<
-
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1tZBHdTgZH8n3XeKjfE40IBVe_ZU_XXSB/view?usp=sharing" download>Download my resume here :D</a>
