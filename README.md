@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m David Roldán
 
 ### Employer?
-> [!IMPORTANT]  
+> [!CHECK THIS OUT]  
 > <a href="https://drive.google.com/file/d/1tZBHdTgZH8n3XeKjfE40IBVe_ZU_XXSB/view?usp=sharing" download>Download my resume here :D</a>
 
 <!--
