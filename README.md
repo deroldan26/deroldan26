@@ -13,4 +13,4 @@ I'm finishing my studies in Informatic engineering at UCAB with strong fundation
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1tZBHdTgZH8n3XeKjfE40IBVe_ZU_XXSB/view?usp=sharing" download>Download my resume here :D</a>
+> <a href="https://drive.google.com/file/d/1KKcIA43n8P8C4rik08mSj2n_-8JOjr1Y/view?usp=sharing" download>Download my resume here :D</a>
