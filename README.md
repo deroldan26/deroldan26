@@ -6,10 +6,10 @@ I'm finishing my studies in Informatic engineering at UCAB with strong fundation
 - 🌱 Currently learning: **Hexagonal Architecture, DDD, and BDD**.
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,mongodb,mysql,postgres,py,django,ts,nestjs,eclipse,java,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,mongodb,mysql,postgres,py,django,ts,nodejs,nestjs,eclipse,java,cpp,cs,graphql)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,js,nextjs,react,angular,html,css,bootstrap)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,js,nextjs,react,angular,html,css,bootstrap,spring,dotnet)](https://skillicons.dev)
 
 ### Employer?
 > [!IMPORTANT]  
